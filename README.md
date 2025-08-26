@@ -19,6 +19,7 @@ Before running queries, the following commands were used:
 SET STATISTICS IO ON;
 SET STATISTICS TIME ON;
 
+
 # SQL Query Performance Test Project
 
 Bu layihədə müxtəlif sorğuların performansını ölçmək və optimallaşdırmaq üçün testlər aparılmışdır. Məqsəd: **Logical/Physical Reads, CPU və Elapsed Time** göstəricilərini izləmək və index istifadəsinin faydasını göstərmək.
